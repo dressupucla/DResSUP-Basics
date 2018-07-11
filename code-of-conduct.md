@@ -10,7 +10,7 @@ Learning new skills can be scary and our participants come from diverse backgrou
 We follow the Recurse Center Social Rules (a.k.a."Hacker School Rules")
 https://www.recurse.com/manual#sub-sec-social-rules
 
-Which basicall covers:
+Which boils down to:
 * No feigning surprise 
 * No well-actually's 
 * No back-seat driving 
