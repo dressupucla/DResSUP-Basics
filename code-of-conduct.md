@@ -11,10 +11,10 @@ We follow the Recurse Center Social Rules (a.k.a."Hacker School Rules")
 https://www.recurse.com/manual#sub-sec-social-rules
 
 Which basicall covers:
-● No feigning surprise 
-● No well-actually's 
-● No back-seat driving 
-● No subtle -isms
+* No feigning surprise 
+* No well-actually's 
+* No back-seat driving 
+* No subtle -isms
   * More info: https://www.recurse.com/blog/38-subtle-isms-at-hacker-school
 
 ### Code of Conduct
