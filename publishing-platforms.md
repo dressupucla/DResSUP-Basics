@@ -9,7 +9,9 @@ Wordpress, Omeka, and Scalar are all content management systems that you might f
 * Bluehost (https://www.bluehost.com) - reasonably priced web hosting. Much more robust than Reclaim, but costs more. Still not expensive though.
 * Humanities Commons (https://hcommons.org) - "Discover the latest open-access scholarship and teaching materials, make interdisciplinary connections, build a WordPress Web site, and increase the impact of your work by sharing it in the repository. Brought to you by the MLA." Free, but Wordpress sites only and a repository to dump data sets, preprints, etc. Great for history, lit, and other humanities and humanistic social sciences.
 
-Just want a website without all the fuss of a Content Management System like Wordpress? Host your website on GitHub! GitHub can host basic HTML5 sites (there are lots of great templates out there like https://html5up.net) and static site generators like Jekyll and Hugo. 
+Just want a website without all the fuss of a Content Management System like Wordpress? Host your website on GitHub! GitHub can host basic HTML5 sites (there are lots of great templates out there like https://html5up.net) and static site generators like Jekyll and Hugo.
+
+GitHub is also a great place to share/publish your data and other project documents. It integrates with Zenodo, a research data repository (CERN), so you can publish a data set, create a release of that data, then archive it and make it citeable with a DOI in Zenodo.
 
 If you want to publish web apps and data visualizations, you can use platforms like Heroku (great for Ruby-based) and PythonAnywhere. 
 
