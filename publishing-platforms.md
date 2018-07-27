@@ -13,6 +13,8 @@ Just want a website without all the fuss of a Content Management System like Wor
 
 GitHub is also a great place to share/publish your data and other project documents. It integrates with Zenodo, a research data repository (CERN), so you can publish a data set, create a release of that data, then archive it and make it citeable with a DOI in Zenodo.
 
+Open Science Framework (OSF) (https://osf.ucla.edu) - a cloud platform for sharing, organizing, storing data, documentation, etc. for your research project. Integrates with GitHub, Google Drive, Box, etc. and has settings for private/public and minting DOIs. You can login with your UCLA BOL account. 
+
 If you want to publish web apps and data visualizations, you can use platforms like Heroku (great for Ruby-based) and PythonAnywhere. 
 
 See this presentation here for more info: https://dawnchildress.com/2016/02/27/dhinfrastructure/
