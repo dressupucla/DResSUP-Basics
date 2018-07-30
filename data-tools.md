@@ -8,6 +8,12 @@ Breve (http://hdlab.stanford.edu/breve/) -  gives you that meta view of tabular 
 
 DataBasic (https://databasic.io/en/) - a suite of easy-to-use web tools for beginners that introduce concepts of working with data. Includes basic text analysis, csv explorer, file diff, network graph of connected data.
 
+#### Coding and creating data
+
+Atlas.ti
+
+Recogito
+
 #### Visualize and analyze
 
 RAW Graphs (https://rawgraphs.io) - open source data visualization framework built with the goal of making the visual representation of complex data easy for everyone. Takes data from a spreadsheet and turns it into a beautiful graph :)
