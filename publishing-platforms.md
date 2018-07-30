@@ -4,7 +4,7 @@ There are so many options for publishing your work online today. Here's a roundu
 
 Wordpress, Omeka, and Scalar are all content management systems that you might find useful. These systems require a LAMP (Linux, Apache, MySQL, PHP) stack, so you will need dedicated server space with web hosting.
 
-* HumSpace (http://humspace.ucla.edu/) - CDH's pilot program for UCLA students. Looks like it is Reclaim Hosting repackaged for UCLA. Offers one-click installs of Wordpress, Omeka, and Scalar. Pilot runs through October.
+* HumSpace (http://humspace.ucla.edu/) - CDH's pilot program for UCLA Humanities students. Looks like it is Reclaim Hosting repackaged for UCLA. Offers one-click install of Wordpress. Omeka, Scalar, and other programs can be manually installed. Pilot runs through October. Students can migrate their content after the decision is made by CDH of whether or not they will extend this service.
 * Reclaim Hosting (https://reclaimhosting.com) - cheap web hosting for students. Offers one-click installs of Wordpress, Omeka, and Scalar. Cheap and easy to use, but suffers from performance issues. 
 * Bluehost (https://www.bluehost.com) - reasonably priced web hosting. Much more robust than Reclaim, but costs more. Still not expensive though.
 * Humanities Commons (https://hcommons.org) - "Discover the latest open-access scholarship and teaching materials, make interdisciplinary connections, build a WordPress Web site, and increase the impact of your work by sharing it in the repository. Brought to you by the MLA." Free, but Wordpress sites only and a repository to dump data sets, preprints, etc. Great for history, lit, and other humanities and humanistic social sciences.
